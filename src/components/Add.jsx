@@ -27,7 +27,7 @@ const Add = () => {
  </Tooltip>
  <StyleModal
   open={open}
-  onClose={e=>setOpen(true)}
+  onClose={e=>setOpen(false)}
   aria-labelledby="modal-modal-title"
   aria-describedby="modal-modal-description"
 >

@@ -3,7 +3,7 @@ import { Box, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Switch
 import React from 'react'
 const Sidebar = () => {
   return (
-   <Box p={2} flex={1} bgcolor="yellow"
+   <Box p={2} flex={1}
    sx={{display:{xs:"none" , sm:"block"}}}>
     <Box position="fixed">
         <List>

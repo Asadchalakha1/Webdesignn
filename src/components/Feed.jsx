@@ -5,7 +5,7 @@ import Post from './Post'
 
 const Feed = () => {
   return (
-    <Box bgcolor="red" flex={4} p={2}>
+    <Box  flex={4} p={2}>
    <Post/>
    <Post/>
    <Post/>
